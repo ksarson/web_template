@@ -1,5 +1,5 @@
 function initializeWebsite() {
-  console.log("Template");
+  console.log('Template');
 }
 
 export default initializeWebsite;

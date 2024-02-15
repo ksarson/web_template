@@ -1,5 +1,5 @@
 (() => {
-  "use strict";
-  console.log("Template");
+  'use strict';
+  console.log('Template');
 })();
 //# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5qcyIsIm1hcHBpbmdzIjoibUJBQ0VBLFFBQVFDLElBQUksVyIsInNvdXJjZXMiOlsid2VicGFjazovL3dlYl90ZW1wbGF0ZS8uL3NyYy93ZWJwYWdlLmpzIl0sInNvdXJjZXNDb250ZW50IjpbImZ1bmN0aW9uIGluaXRpYWxpemVXZWJzaXRlKCkge1xuICBjb25zb2xlLmxvZygnVGVtcGxhdGUnKTtcbn1cblxuZXhwb3J0IGRlZmF1bHQgaW5pdGlhbGl6ZVdlYnNpdGU7XG4iXSwibmFtZXMiOlsiY29uc29sZSIsImxvZyJdLCJzb3VyY2VSb290IjoiIn0=
